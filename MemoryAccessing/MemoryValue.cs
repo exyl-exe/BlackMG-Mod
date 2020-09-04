@@ -1,4 +1,4 @@
-﻿namespace GDAPI.MemoryAccessing
+﻿namespace BlackMGMod.MemoryAccessing
 {
     struct MemoryValue
     {

@@ -1,11 +1,11 @@
-﻿using GDAPI.MemoryAccessing;
+﻿using BlackMGMod.MemoryAccessing;
 using Iced.Intel;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using static Iced.Intel.AssemblerRegisters;
 
-namespace GDAPI
+namespace BlackMGMod
 {
     class Program
     {

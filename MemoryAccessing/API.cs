@@ -1,5 +1,5 @@
 ﻿using System;
-namespace GDAPI.MemoryAccessing
+namespace BlackMGMod.MemoryAccessing
 {
     static class API
     {
